@@ -1,0 +1,68 @@
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* header section start */
+    /* header section end */
+    /* about section start */
+    /* about section end */
+    /* facts section start */
+    /* facts section end */
+    /* services section start */
+    .card-wrap {
+        margin-bottom: 40px;
+    }
+    /* services section end */
+    /* call to action section start */
+    /* call to action section end */
+    /* portfolio section start */
+    /* portfolio section end */
+    /* team section start */
+    /* team section end */
+    /* contact section start */
+    /* contact section end */
+    /* footer section start */
+    /* footer section end */
+}
+
+@media (min-width: 299.98px) and (max-width: 767.98px) {
+    /* header section start */
+    /* header section end */
+    /* about section start */
+    /* about section end */
+    /* facts section start */
+    /* facts section end */
+    /* services section start */
+    .card-wrap {
+        margin-bottom: 40px;
+    }
+    /* services section end */
+    /* call to action section start */
+    /* call to action section end */
+    /* portfolio section start */
+    /* portfolio section end */
+    /* team section start */
+    /* team section end */
+    /* contact section start */
+    /* contact section end */
+    /* footer section start */
+    /* footer section end */
+}
+
+@media (min-width: 99.98px) and (max-width: 298.98px) {
+    /* header section start */
+    /* header section end */
+    /* about section start */
+    /* about section end */
+    /* facts section start */
+    /* facts section end */
+    /* services section start */
+    /* services section end */
+    /* call to action section start */
+    /* call to action section end */
+    /* portfolio section start */
+    /* portfolio section end */
+    /* team section start */
+    /* team section end */
+    /* contact section start */
+    /* contact section end */
+    /* footer section start */
+    /* footer section end */
+}

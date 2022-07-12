@@ -1,0 +1,270 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    ;
+}
+
+body p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+/* header section start */
+
+.nav-link {
+    color: #fff;
+}
+
+
+/* hero content start */
+
+.hero-content {
+    margin-top: 90px;
+}
+
+.hero-content h1 {
+    font-weight: 800;
+}
+
+.hero-content p {
+    margin-bottom: 50px;
+}
+
+.hero-btn {
+    background: none;
+    color: #fff;
+    padding: 5px 20px;
+    border: 1px solid #fff;
+    border-radius: 30px;
+    text-decoration: none;
+}
+
+#navbarSupportedContent {
+    text-align: center;
+}
+
+#navbarDropdown {
+    color: #fff;
+}
+
+.dropdown-menu {
+    background: none;
+    text-align: center;
+}
+
+.dropdown-item {
+    color: #fff;
+}
+
+
+/* header section end */
+
+
+/* about section start */
+
+.fa-briefcase {
+    font-size: 2.5rem;
+    border: 1px solid #2ECC71;
+    padding: 15px;
+    border-radius: 50%;
+    color: #2ECC71;
+}
+
+.fa-binoculars {
+    font-size: 2.5rem;
+    border: 1px solid #2ECC71;
+    padding: 15px;
+    border-radius: 50%;
+    color: #2ECC71;
+}
+
+.fa-receipt {
+    font-size: 2.5rem;
+    border: 1px solid #2ECC71;
+    padding: 15px;
+    border-radius: 50%;
+    color: #2ECC71;
+}
+
+.rightAbout {
+    margin-top: 110px;
+}
+
+
+/* about section end */
+
+
+/* facts section start */
+
+.facts-sec {
+    background-color: #F7F7F7;
+}
+
+.facts-sec h4 {
+    color: #2ECC71;
+    font-size: 2rem;
+}
+
+.facts-sec p {
+    font-size: .850rem;
+}
+
+
+/* facts section end */
+
+
+/* services section start */
+
+.card {
+    background-color: #F7F7F7;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0px;
+}
+
+.card-icon {
+    position: absolute;
+    top: -40px;
+}
+
+.fa-bag-shopping,
+.fa-align-right,
+.fa-chart-simple,
+.fa-camera-retro,
+.fa-sun,
+.fa-box-archive {
+    font-size: 2.5rem;
+    background-color: #2ECC71;
+    color: #fff;
+    padding: 15px;
+    border-radius: 50%;
+}
+
+
+/* services section end */
+
+
+/* call to action section start */
+
+.cta-h4 {
+    color: #fff;
+}
+
+.cta-p {
+    color: #fff;
+}
+
+.cta-btn {
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 5px 15px;
+    border-radius: 20px;
+}
+
+
+/* call to action section end */
+
+
+/* portfolio section start */
+
+#app-tab,
+#card-tab,
+#web-tab {
+    color: #000;
+}
+
+#portfolio {
+    background-color: #F7F7F7;
+    padding: 20px 0px;
+}
+
+
+/* portfolio section end */
+
+
+/* team section start */
+
+.card-footer i {
+    font-size: 1.3rem;
+    margin: 0px 2px;
+    color: gray;
+}
+
+.carousel .owl-dots {
+    position: absolute;
+    bottom: 40px;
+    left: 50px;
+}
+
+.carousel .owl-dots button.active {
+    background: #ffc045;
+    border-radius: 50%;
+}
+
+
+/* team section end */
+
+
+/* contact section start */
+
+#contact {
+    background-color: #F7F7F7;
+    padding: 20px 0px;
+}
+
+.locationDiv,
+.envelopeDiv,
+.mobileDiv {
+    margin-bottom: 30px;
+}
+
+.fa-location-dot,
+.fa-envelope,
+.fa-mobile {
+    font-size: 2rem;
+    color: #2ECC71;
+}
+
+.socialIcons {
+    margin-top: 30px;
+    /* text-align: center; */
+}
+
+.socialIcons i {
+    font-size: 1.2rem;
+    color: #fff;
+    background-color: #000;
+    padding: 7px;
+    border-radius: 50%;
+    margin: 5px;
+}
+
+
+/* contact section end */
+
+
+/* footer section start */
+
+.footer {
+    background-color: #2C3E50;
+    padding: 20px 0px;
+    color: #fff;
+}
+
+.design-text {
+    font-size: .875rem;
+}
+
+.credit-name {
+    color: #2ECC71;
+}
+
+
+/* footer section end */
